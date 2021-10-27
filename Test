@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int a;
+
+int main()
+{
+  cin >> a;
+  printf("First test on github : ");
+  cout << a << endl;
+}
